@@ -9,9 +9,7 @@
     <a href="mailto:shotaabashidze88@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address"/>
     </a>
-    <a href="https://shotaabashidze.ge" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-2E8B57?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Link"/>
-    </a>
+   
 </p>
 
 ---
@@ -27,9 +25,7 @@
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,nodejs,express,python,postgresql,mongodb,docker,aws,azure,git,jest" alt="Tech Stack Icons" />
-</p>
+
 
 | Category | Proficient Technologies |
 | :--- | :--- |
