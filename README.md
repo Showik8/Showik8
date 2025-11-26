@@ -32,7 +32,7 @@
 | **Frontend/UI** | React, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Scss, GSAP |
 | **Backend/Server** | Node.js, Express, Python, OOP, JWT |
 | **Databases/ORM** | PostgreSQL, MongoDB, Mongoose, Prisma |
-| **DevOps & Tools** | Git/GitHub, Docker, AWS, Azure, Jest (Unit Testing), Linux |
+| **DevOps & Tools** | Git/GitHub, CI/CD pipelines Docker, AWS, Azure, Jest (Unit Testing), Linux |
 
 ---
 
